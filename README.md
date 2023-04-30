@@ -4,7 +4,7 @@
 
 El proyecto ```Ejercicio 1 - Java``` es un proyecto fullstack de Maven que requiere que el usuario inicie sesión a través de Azure Active Directory para acceder a su contenido protegido. Para lograr esto, se creó una aplicación en Azure Active Directory que se vinculó al proyecto Maven a través de un archivo de configuración que contiene información proporcionada por Azure Active Directory. La ruta de redirección se especificó en Azure para que la respuesta (un token de acceso) de la aplicación Azure pueda ser enviada a la aplicación Maven después de que el usuario inicie sesión.
 
-Es importante destacar que el backend de la aplicación está desarrollado con WebServlets, los cuales se encargan de gestionar las solicitudes de los clientes mediante el protocolo HTTP.
+Es importante destacar que el backend de la aplicación está desarrollado con WebServlet, los cuales se encargan de gestionar las solicitudes de los clientes mediante el protocolo HTTP.
 
 ## ```Ejercicio 2 - Python```
 
