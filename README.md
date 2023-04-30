@@ -8,7 +8,7 @@ Es importante destacar que el backend de la aplicación está desarrollado con W
 
 ## ```Ejercicio 2 - Python```
 
-El proyecto ```Ejercicio 2 - Python``` está desarrollado en Python 3 con la intención de resolver un enunciado que consiste en obtener las áreas de las plazas de una ciudad determinada en metros cuadrados, ordenadas de mayor a menor. Este proyecto utiliza tecnologías como GeoPandas, Polygon de shapely.geometry y CRS de pyproj para llevar a cabo esta tarea.
+El proyecto ```Ejercicio 2 - Python``` está desarrollado en Python 3 con la intención de resolver un enunciado que consiste en obtener las áreas de las plazas de una ciudad determinada en metros cuadrados, ordenadas de mayor a menor. Este proyecto utiliza tecnologías como GeoPandas, Polygon de shapely.geometry y CRS de pyproj para el desarrollo del enunciado.
 
 Es importante destacar que GeoPandas es una biblioteca de Python que se ocupa para trabajar con datos geoespaciales, mientras que Polygon de shapely.geometry se enfoca en la manipulación de objetos geométricos. Por otro lado, CRS de pyproj es una biblioteca que se utiliza para la gestión de sistemas de referencia de coordenadas.
 
