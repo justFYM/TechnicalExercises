@@ -2,7 +2,7 @@
 
 ## ```Ejercicio 1 - Java```
 
-El proyecto ```Ejercicio 1 - Java``` es un proyecto fullstack de Maven que tiene como objetivo permitir que los usuarios accedan a su contenido protegido solo después de iniciar sesión a través de Azure Active Directory. Para lograr esto, se creó una aplicación en la plataforma oficial de Azure y se vinculó al proyecto Maven mediante un archivo de configuración y clases de Java proporcionadas por Microsoft. Es importante destacar que se especificó una ruta de redirección en la plataforma oficial de Azure para que, cuando el usuario ingrese sus credenciales de Microsoft, Azure envíe su respuesta en forma de un token de acceso, solo si las credenciales sean válidas y existan en el sistema de autenticación de Microsoft.  
+El proyecto ```Ejercicio 1 - Java``` es un proyecto fullstack de Maven que tiene como cometido permitir que los usuarios accedan a su contenido protegido solo después de iniciar sesión a través de Azure Active Directory. Para lograr esto, se creó una aplicación en la plataforma oficial de Azure y se vinculó al proyecto Maven mediante un archivo de configuración y clases de Java proporcionadas por Microsoft. Es importante destacar que se especificó una ruta de redirección en la plataforma oficial de Azure para que, cuando el usuario ingrese sus credenciales de Microsoft, Azure envíe su respuesta en forma de un token de acceso, solo si las credenciales sean válidas y existan en el sistema de autenticación de Microsoft.  
 
 Es importante destacar que el backend de la aplicación está desarrollado con WebServlet, los cuales se encargan de gestionar las solicitudes de los clientes mediante el protocolo HTTP.
 
